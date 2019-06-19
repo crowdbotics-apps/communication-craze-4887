@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT communication_craze_4887.wsgi:application
